@@ -10,6 +10,6 @@ setup(
     author_email='edussilva@live.com',
     keywords='django mixins mixin video videos',
     descriptions='Mixin for videos',
-    packages=['django-mixinvideos'],
+    packages=['mixin_videos'],
     isntall_requires=['requests'],
 )
