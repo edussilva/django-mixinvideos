@@ -11,5 +11,7 @@ setup(
     keywords='django mixins mixin video videos',
     description='Mixin for videos',
     packages=['mixin_videos'],
-    isntall_requires=['requests'],
+    install_requires=[
+        'requests',
+    ],
 )
